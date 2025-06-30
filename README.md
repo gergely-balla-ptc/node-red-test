@@ -1,3 +1,3 @@
 # node-red-test
 trying github trigger to node-red
-test5
+test6
