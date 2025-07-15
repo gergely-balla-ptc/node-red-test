@@ -1,3 +1,3 @@
 # node-red-test
 trying github trigger to node-red
-test39
+test40
